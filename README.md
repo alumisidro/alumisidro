@@ -1,5 +1,5 @@
 
-# ¡Bienvenid@ a mi repositorio! 👋
+# ¡Bienvenid@! 👋
 
 ### Ha pasado un tornado y se ha llevado los repositorios. ¡Vuelva pronto para ver si hay alguno disponible!
 
